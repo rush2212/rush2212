@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **AI-SaaS**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aHDHUmi8H0_p9ROccRVGG-tZqKjblOH-/view?usp=sharing](https://drive.google.com/file/d/1aHDHUmi8H0_p9ROccRVGG-tZqKjblOH-/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1YGnd7CPjzIrBOLqw7P7zEWcLXhNg9Kr6/view?usp=sharing](https://drive.google.com/file/d/1YGnd7CPjzIrBOLqw7P7zEWcLXhNg9Kr6/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
