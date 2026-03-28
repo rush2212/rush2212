@@ -1,4 +1,4 @@
-<img width="1912" height="915" alt="image" src="https://github.com/user-attachments/assets/a354acdd-f35d-4713-8cb5-6844c2527b9c" />
+<a href="https://rushabh-belani.vercel.app/" target="blank"><img width="1912" height="915" alt="image" src="https://github.com/user-attachments/assets/a354acdd-f35d-4713-8cb5-6844c2527b9c" /></a>
 
 <h1 align="center">Hi 👋, I'm Rushabh Belani</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
